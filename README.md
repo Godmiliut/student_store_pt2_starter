@@ -1,9 +1,7 @@
-# Student Store UI Starter
+# SQL Student Store
 
-This repository holds the code to start up a new project for the student store lab.
+For this lab, interns will be expanding on the Week 2 Student Store Assignment.
 
-## Dev Setup
+This time around, we'll design a backend that uses a PostgreSQL database to persist data. Users will need to be logged in to checkout and will be able to see any previous purchases they've made at the student store.
 
-Run `npm install` to install necessary dependencies.
-
-Make sure the backend is up and running and open `localhost:3000` to get starter.
+Find the core instructions for this lab on the CodePath course portal
